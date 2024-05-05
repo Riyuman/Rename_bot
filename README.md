@@ -24,7 +24,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/harshil8981/RenamePro_Bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Riyuman/Rename_bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
