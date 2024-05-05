@@ -1,9 +1,9 @@
 {
-    "name": "MrKiller Renamer Bot",
+    "name": "𝑵𝑰𝑪𝑲 𝑹𝒆𝒏𝒂𝒎𝒆𝒓 𝑩𝒐𝒕",
     "description": "Telegram File Renamer Bot ",
-    "logo": "https://graph.org/file/97f76ffe8cbb26b4119e5.jpg",
+    "logo": "https://telegra.ph/file/1b798dcc380d01f886d15.jpg",
     "keywords": ["Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/harshil8981/RenamePro_Bot",
+    "repository": "https://github.com/Riyuman/Rename_bot",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
@@ -43,7 +43,7 @@
             "required": false
         },
         "START_PIC": {
-            "description": "Your Bot start cmd Pic from @HK_telegraph_BOT",
+            "description": "Your Bot start cmd Pic from @M_P_G_Telegraph_Uploader_bot",
             "value": "",
             "required": false
         }
