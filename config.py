@@ -40,7 +40,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
 ├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Oogo_nick>۞ٍٍٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖ 🇳 🇮 🇨 🇰 ۞ٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖ</a>
-├👑 Instagram : <a href=https://www.instagram.com/suman_parvej?igsh=NHA1M3VjYnJtc3F3>Own Page</a> 
+├👑 Instagram : <a href=https://www.instagram.com/suman_parvej?igsh=NHA1M3VjYnJtc3F3>ᗪOᑎ'T TOᑌᑕᕼ</a> 
 ├☃️ Oғғɪᴄɪᴀʟ Gʀᴏᴜᴘ : <a href=https://t.me/movie_providing_group>🔰𝙈𝙊𝙑𝙄𝙀 𝙋𝙍𝙊𝙑𝙄𝘿𝙄𝙉𝙂 𝙂𝙍𝙊𝙐𝙋Ⓡ🎬🎥🎞️</a>
 ├💾 Oғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/movie_provider_official>🔰𝙈𝙊𝙑𝙄𝙀 𝙋𝙍𝙊𝙑𝙄𝘿𝙀𝙍 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇Ⓡ🎬🎥🎞️</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
