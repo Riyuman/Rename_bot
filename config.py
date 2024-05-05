@@ -15,7 +15,7 @@ class Config(object):
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "https://graph.org/file/97f76ffe8cbb26b4119e5.jpg")
+    START_PIC   = os.environ.get("START_PIC", "https://telegra.ph/file/1b798dcc380d01f886d15.jpg")
     ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '').split()]
     FORCE_SUB   = os.environ.get("FORCE_SUB", "") 
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
@@ -39,12 +39,12 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Mrkiller_1109>MrKïllêr Ðêvêlðþêr</a>
-├👑 Instagram : <a href=https://www.instagram.com/Mrking_motivational>Motivational Page</a> 
-├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Hpbot_update>HP Bot</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Oogo_nick>۞ٍٍٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖ 🇳 🇮 🇨 🇰 ۞ٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖ Ðêvêlðþêr</a>
+├👑 Instagram : <a href=https://www.instagram.com/Mrking_motivational>Own Page</a> 
+├☃️ Oғғɪᴄɪᴀʟ Gʀᴏᴜᴘ : <a href=https://t.me/movie_providing_group>🔰𝙈𝙊𝙑𝙄𝙀 𝙋𝙍𝙊𝙑𝙄𝘿𝙄𝙉𝙂 𝙂𝙍𝙊𝙐𝙋Ⓡ🎬🎥🎞️</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
-├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
+├💾 Oғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/movie_provider_official>🔰𝙈𝙊𝙑𝙄𝙀 𝙋𝙍𝙊𝙑𝙄𝘿𝙀𝙍 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇Ⓡ🎬🎥🎞️</a>
 ├🌀 ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://dashboard.heroku.com>Heroku</a>
 ╰───────────────⍟ """
 
@@ -63,7 +63,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ⏰ Dᴜʀᴀᴛɪᴏɴ: {duration}
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-❗ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/HP_Bot_discuss_group>𝑺𝑼𝑷𝑷𝑶𝑹𝑻</a>
+❗ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Oogo_nick>𝑌𝑂𝑈𝑅 𝐷𝐴𝐷</a>
 """
 
 
